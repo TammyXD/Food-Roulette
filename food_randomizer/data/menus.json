@@ -1,0 +1,440 @@
+[
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดหมู",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดไก่",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดกุ้ง",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดปลาหมึก",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดเบคอน",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวกะเพราหมู",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวกะเพราไก่",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวกะเพราหมูกรอบ",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวกะเพราเบคอน",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวกะเพรากุ้ง",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวกะเพราปลาหมึก",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดพริกแกงหมู",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดพริกแกงไก่",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดพริกแกงหมูกรอบ",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดพริกแกงเบคอน",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดพริกแกงกุ้ง",
+        "description": "-",
+        "price": 55.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวผัดพริกแกงปลาหมึก",
+        "description": "-",
+        "price": 55.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวราดผัดคะน้า",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวราดผัดน้ำมันหอย",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ข้าวราดผัดกระเทียม",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 1,
+        "name": "มะกะโรนีซอสมะเขื่อเทศ",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "สปาเก็ตตี้ซอสมะเขื่อเทศ",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "สปาเก็ตตี้ผัดขี้เมา",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ราดหน้า",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "มาม่าผัด",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "ผัดซีอิ๊ว",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "สุกี้น้ำ",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 1,
+        "name": "สุกี้แห้ง",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวไก่กรอบ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวยำไก่แซ่บ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวยำไก่ย่าง",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวยำผสม",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวกะเพราไก่กรอบ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวแกงกะหรี่",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวไก่กรอบซอสเทอริยากิ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวไก่กรอบซอสพริก",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวไก่กรอบซอสบาบีคิว",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวไก่กรอบซอสสลัดครีม",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ข้าวไก่กรอบซอสบ๊วยเจี่ย",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ผัดไทไก่",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ผัดไทหมู",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ผัดไทกุ้ง",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ราดหน้าหมู",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ราดหน้ากุ้ง",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ผัดซีอิ๊วหมู",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ผัดซีอิ๊วไก่",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 2,
+        "name": "ผัดซีอิ๊วกุ้ง",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 3,
+        "name": "บะหมี่เกี๊ยวหมูแดงต้มยำ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 3,
+        "name": "บะหมี่เกี๊ยวหมูแดงเย็นตาโฟ",
+        "description": "-",
+        "price": 40.00
+    },
+
+    {
+        "store_id": 3,
+        "name": "บะหมี่เกี๊ยวหมูกรอบต้มยำ",
+        "description": "-",
+        "price": 45.00
+    },
+
+    {
+        "store_id": 3,
+        "name": "บะหมี่เกี๊ยวหมูกรอบเย็นตาโฟ",
+        "description": "-",
+        "price": 45.00
+    },
+
+    {
+        "store_id": 3,
+        "name": "บะหมี่เกี๊ยวหมูแดงหมูกรอบต้มยำ",
+        "description": "-",
+        "price": 50.00
+    },
+
+    {
+        "store_id": 3,
+        "name": "บะหมี่เกี๊ยวหมูแดงหมูกรอบเย็นตาโฟ",
+        "description": "-",
+        "price": 50.00
+    },
+
+    {
+        "store_id": 3,
+        "name": "บะหมี่ไก่แซ่บ",
+        "description": "-",
+        "price": 40.00
+    },
+
+    {
+        "store_id": 3,
+        "name": "บะหมี่หมูย่างแซ่บ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 3,
+        "name": "ข้าวหมูแดงหมูกรอบ",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 3,
+        "name": "ข้าวหมูกรอบ",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 3,
+        "name": "ข้าวหมูแดง",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 3,
+        "name": "ข้าวขาหมู",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 3,
+        "name": "ข้าวหน้าไก่ย่าง",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 3,
+        "name": "ข้าวหน้าหมูย่าง",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 4,
+        "name": "ข้าวมันไก่ต้ม",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 4,
+        "name": "ข้าวมันไก่ทอด",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 4,
+        "name": "ข้าวมันไก่ต้ม+ทอด",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 4,
+        "name": "ข้าวหมกไก่",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 4,
+        "name": "ก๋วยจั๊บ",
+        "description": "-",
+        "price": 40.00
+    },
+    {
+        "store_id": 5,
+        "name": "ข้าวไก่ทอดโคเรียน",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 5,
+        "name": "ข้าวหมูผัดซอสโคชูจัง",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 5,
+        "name": "ข้าวไก่เทอริยากิ",
+        "description": "-",
+        "price": 50.00
+    },
+    {
+        "store_id": 5,
+        "name": "ข้าวไก่ทอดเกาหลี",
+        "description": "-",
+        "price": 45.00
+    },
+    {
+        "store_id": 5,
+        "name": "ข้าวหมูกระบองจิ้มแจ่ว",
+        "description": "-",
+        "price": 55.00
+    },
+    {
+        "store_id": 5,
+        "name": "ข้าวแกงกะหรี่หมูทอดกุ้งคัตสึ",
+        "description": "-",
+        "price": 55.00
+    }
+]

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random Food Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+<body>
+    <header> 
+        <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="logo">
+        <div class="header">
+            <h1 class="title">Favor Roulette</h1>
+        </div>  
+   
+        
+    </header>
+    <div class="container">
+        {% if store and menu %}
+            <h1>Welcome to Favor Roulette</h1>
+            <h2>ร้านที่สุ่มได้ : {{ store.name }}</h2>
+            <h3>เมนู : {{ menu.name }}</h3>
+            <h4>ราคา: {{ menu['price'] }}</h4>
+        {% else %}
+            <p>No suitable menu found based on your allergies and ingredients.</p>
+        {% endif %}
+        <a href="/" class="button">Random Your Food</a>
+    </div>
+</body>
+<body>
+  
+    <div class="exi">
+      <h1>Menu</h1>
+    </div>
+    <div class="existing-content">
+        <h2>ร้านครัวพี่ช้าง</h2>
+      <img src="{{ url_for('static', filename='1.jpg') }}" alt="picOne" class="picOne">
+    </div>
+    <div class="existing-content">
+      <h2>ร้านอาหารตามสั่ง</h2>
+      <img src="{{ url_for('static', filename='2.jpg') }}" alt="picTwo" class="picTwo">
+    </div>
+    <div class="existing-content">
+      <h2>ครัวศิริ</h2>
+      <img src="{{ url_for('static', filename='3.jpg') }}" alt="picThree" class="picThree">
+    </div>
+    <div class="existing-content">
+      <h2>ร้านข้าวมันไก่ทอดป้าวิไล</h2>
+      <img src="{{ url_for('static', filename='4.jpg') }}" alt="picFour" class="picFour">
+    </div>
+    <div class="existing-content">
+      <h2>ร้านโค-เจ</h2>
+      <img src="{{ url_for('static', filename='5.jpg') }}" alt="picFive" class="picFive">
+    </div>
+</body>
+  
+</html>

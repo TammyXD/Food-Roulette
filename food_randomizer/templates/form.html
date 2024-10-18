@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food Selector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+
+<body>
+    <header>
+        <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="logo">
+    </header>
+    <div class="container">
+        <form action="/random-food" method="post">
+            <label for="allergies">Enter your allergies (comma-separated):</label>
+            <input type="text" name="allergies" id="allergies">
+            <button type="submit">Get Random Food</button>
+        </form>
+    </div>
+</body>
+</html>
